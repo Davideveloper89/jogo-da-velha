@@ -95,7 +95,7 @@ Para executar o jogo, você precisará de:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Davideveloper89/Jogo-da-Velha.git
+   git clone https://github.com/Davideveloper89/jogo-da-velha.git
    cd jogo-da-velha
    ```
 
